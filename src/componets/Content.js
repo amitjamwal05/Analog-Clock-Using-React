@@ -7,6 +7,7 @@ function Content(){
             <div id="minute"></div>
             <div id="second"></div>
         </div>
+        <h1>Analog</h1>
 
         </>
     )
